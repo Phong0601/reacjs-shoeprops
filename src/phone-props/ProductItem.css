@@ -1,0 +1,7 @@
+.img:hover{
+    transform: translateY(-10px);
+}
+.img{
+    cursor: pointer;
+    transition: all .3s;
+}
