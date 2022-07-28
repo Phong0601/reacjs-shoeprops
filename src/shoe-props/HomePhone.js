@@ -304,7 +304,7 @@ export class HomePhone extends Component {
     },
   ];
   state = {
-    objItem: null,
+    objItem: {},
     cart: [],
     item: [...this.products],
   };
