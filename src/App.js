@@ -1,12 +1,13 @@
 import logo from './logo.svg';
 import './App.css';
+import HomePhone from './shoe-props/HomePhone';
 
-import HomePhone from './phone-props/HomePhone';
+
 
 function App() {
   return (
     <div className="App">
-     <HomePhone/>
+      <HomePhone/>
     </div>
   );
 }
